@@ -1,0 +1,14 @@
+C:\Users\judec\CSharpApps-1\Return-Largest-Number\bin\Debug\net7.0\Return-Largest-Number.exe
+C:\Users\judec\CSharpApps-1\Return-Largest-Number\bin\Debug\net7.0\Return-Largest-Number.deps.json
+C:\Users\judec\CSharpApps-1\Return-Largest-Number\bin\Debug\net7.0\Return-Largest-Number.runtimeconfig.json
+C:\Users\judec\CSharpApps-1\Return-Largest-Number\bin\Debug\net7.0\Return-Largest-Number.dll
+C:\Users\judec\CSharpApps-1\Return-Largest-Number\bin\Debug\net7.0\Return-Largest-Number.pdb
+C:\Users\judec\CSharpApps-1\Return-Largest-Number\obj\Debug\net7.0\Return-Largest-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judec\CSharpApps-1\Return-Largest-Number\obj\Debug\net7.0\Return-Largest-Number.AssemblyInfoInputs.cache
+C:\Users\judec\CSharpApps-1\Return-Largest-Number\obj\Debug\net7.0\Return-Largest-Number.AssemblyInfo.cs
+C:\Users\judec\CSharpApps-1\Return-Largest-Number\obj\Debug\net7.0\Return-Largest-Number.csproj.CoreCompileInputs.cache
+C:\Users\judec\CSharpApps-1\Return-Largest-Number\obj\Debug\net7.0\Return-Largest-Number.dll
+C:\Users\judec\CSharpApps-1\Return-Largest-Number\obj\Debug\net7.0\refint\Return-Largest-Number.dll
+C:\Users\judec\CSharpApps-1\Return-Largest-Number\obj\Debug\net7.0\Return-Largest-Number.pdb
+C:\Users\judec\CSharpApps-1\Return-Largest-Number\obj\Debug\net7.0\Return-Largest-Number.genruntimeconfig.cache
+C:\Users\judec\CSharpApps-1\Return-Largest-Number\obj\Debug\net7.0\ref\Return-Largest-Number.dll

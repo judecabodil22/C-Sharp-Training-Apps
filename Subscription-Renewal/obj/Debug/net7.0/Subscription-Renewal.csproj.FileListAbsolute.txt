@@ -1,0 +1,14 @@
+C:\Users\judec\CSharpApps-1\Subscription-Renewal\bin\Debug\net7.0\Subscription-Renewal.exe
+C:\Users\judec\CSharpApps-1\Subscription-Renewal\bin\Debug\net7.0\Subscription-Renewal.deps.json
+C:\Users\judec\CSharpApps-1\Subscription-Renewal\bin\Debug\net7.0\Subscription-Renewal.runtimeconfig.json
+C:\Users\judec\CSharpApps-1\Subscription-Renewal\bin\Debug\net7.0\Subscription-Renewal.dll
+C:\Users\judec\CSharpApps-1\Subscription-Renewal\bin\Debug\net7.0\Subscription-Renewal.pdb
+C:\Users\judec\CSharpApps-1\Subscription-Renewal\obj\Debug\net7.0\Subscription-Renewal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judec\CSharpApps-1\Subscription-Renewal\obj\Debug\net7.0\Subscription-Renewal.AssemblyInfoInputs.cache
+C:\Users\judec\CSharpApps-1\Subscription-Renewal\obj\Debug\net7.0\Subscription-Renewal.AssemblyInfo.cs
+C:\Users\judec\CSharpApps-1\Subscription-Renewal\obj\Debug\net7.0\Subscription-Renewal.csproj.CoreCompileInputs.cache
+C:\Users\judec\CSharpApps-1\Subscription-Renewal\obj\Debug\net7.0\Subscription-Renewal.dll
+C:\Users\judec\CSharpApps-1\Subscription-Renewal\obj\Debug\net7.0\refint\Subscription-Renewal.dll
+C:\Users\judec\CSharpApps-1\Subscription-Renewal\obj\Debug\net7.0\Subscription-Renewal.pdb
+C:\Users\judec\CSharpApps-1\Subscription-Renewal\obj\Debug\net7.0\Subscription-Renewal.genruntimeconfig.cache
+C:\Users\judec\CSharpApps-1\Subscription-Renewal\obj\Debug\net7.0\ref\Subscription-Renewal.dll
