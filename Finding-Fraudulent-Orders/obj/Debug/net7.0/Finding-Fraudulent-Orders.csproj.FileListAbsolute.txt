@@ -1,0 +1,14 @@
+C:\Users\judec\CSharpApps-1\Finding-Fraudulent-Orders\bin\Debug\net7.0\Finding-Fraudulent-Orders.exe
+C:\Users\judec\CSharpApps-1\Finding-Fraudulent-Orders\bin\Debug\net7.0\Finding-Fraudulent-Orders.deps.json
+C:\Users\judec\CSharpApps-1\Finding-Fraudulent-Orders\bin\Debug\net7.0\Finding-Fraudulent-Orders.runtimeconfig.json
+C:\Users\judec\CSharpApps-1\Finding-Fraudulent-Orders\bin\Debug\net7.0\Finding-Fraudulent-Orders.dll
+C:\Users\judec\CSharpApps-1\Finding-Fraudulent-Orders\bin\Debug\net7.0\Finding-Fraudulent-Orders.pdb
+C:\Users\judec\CSharpApps-1\Finding-Fraudulent-Orders\obj\Debug\net7.0\Finding-Fraudulent-Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judec\CSharpApps-1\Finding-Fraudulent-Orders\obj\Debug\net7.0\Finding-Fraudulent-Orders.AssemblyInfoInputs.cache
+C:\Users\judec\CSharpApps-1\Finding-Fraudulent-Orders\obj\Debug\net7.0\Finding-Fraudulent-Orders.AssemblyInfo.cs
+C:\Users\judec\CSharpApps-1\Finding-Fraudulent-Orders\obj\Debug\net7.0\Finding-Fraudulent-Orders.csproj.CoreCompileInputs.cache
+C:\Users\judec\CSharpApps-1\Finding-Fraudulent-Orders\obj\Debug\net7.0\Finding-Fraudulent-Orders.dll
+C:\Users\judec\CSharpApps-1\Finding-Fraudulent-Orders\obj\Debug\net7.0\refint\Finding-Fraudulent-Orders.dll
+C:\Users\judec\CSharpApps-1\Finding-Fraudulent-Orders\obj\Debug\net7.0\Finding-Fraudulent-Orders.pdb
+C:\Users\judec\CSharpApps-1\Finding-Fraudulent-Orders\obj\Debug\net7.0\Finding-Fraudulent-Orders.genruntimeconfig.cache
+C:\Users\judec\CSharpApps-1\Finding-Fraudulent-Orders\obj\Debug\net7.0\ref\Finding-Fraudulent-Orders.dll

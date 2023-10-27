@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\judec\\CSharpApps-1\\Return-Largest-Number\\Return-Largest-Number.csproj",
-      "projectName": "Return-Largest-Number",
-      "projectPath": "C:\\Users\\judec\\CSharpApps-1\\Return-Largest-Number\\Return-Largest-Number.csproj",
+      "projectUniqueName": "C:\\Users\\judec\\CSharpApps-1\\Promotional-Discount\\Promotional-Discount.csproj",
+      "projectName": "Promotional-Discount",
+      "projectPath": "C:\\Users\\judec\\CSharpApps-1\\Promotional-Discount\\Promotional-Discount.csproj",
       "packagesPath": "C:\\Users\\judec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\judec\\CSharpApps-1\\Return-Largest-Number\\obj\\",
+      "outputPath": "C:\\Users\\judec\\CSharpApps-1\\Promotional-Discount\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\judec\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,14 @@
+C:\Users\judec\CSharpApps-1\Decision-Logic\bin\Debug\net7.0\Decision-Logic.exe
+C:\Users\judec\CSharpApps-1\Decision-Logic\bin\Debug\net7.0\Decision-Logic.deps.json
+C:\Users\judec\CSharpApps-1\Decision-Logic\bin\Debug\net7.0\Decision-Logic.runtimeconfig.json
+C:\Users\judec\CSharpApps-1\Decision-Logic\bin\Debug\net7.0\Decision-Logic.dll
+C:\Users\judec\CSharpApps-1\Decision-Logic\bin\Debug\net7.0\Decision-Logic.pdb
+C:\Users\judec\CSharpApps-1\Decision-Logic\obj\Debug\net7.0\Decision-Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judec\CSharpApps-1\Decision-Logic\obj\Debug\net7.0\Decision-Logic.AssemblyInfoInputs.cache
+C:\Users\judec\CSharpApps-1\Decision-Logic\obj\Debug\net7.0\Decision-Logic.AssemblyInfo.cs
+C:\Users\judec\CSharpApps-1\Decision-Logic\obj\Debug\net7.0\Decision-Logic.csproj.CoreCompileInputs.cache
+C:\Users\judec\CSharpApps-1\Decision-Logic\obj\Debug\net7.0\Decision-Logic.dll
+C:\Users\judec\CSharpApps-1\Decision-Logic\obj\Debug\net7.0\refint\Decision-Logic.dll
+C:\Users\judec\CSharpApps-1\Decision-Logic\obj\Debug\net7.0\Decision-Logic.pdb
+C:\Users\judec\CSharpApps-1\Decision-Logic\obj\Debug\net7.0\Decision-Logic.genruntimeconfig.cache
+C:\Users\judec\CSharpApps-1\Decision-Logic\obj\Debug\net7.0\ref\Decision-Logic.dll
