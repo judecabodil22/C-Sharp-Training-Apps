@@ -1,0 +1,14 @@
+C:\Users\judec\CSharpApps-1\Invoice-Number\bin\Debug\net7.0\Invoice-Number.exe
+C:\Users\judec\CSharpApps-1\Invoice-Number\bin\Debug\net7.0\Invoice-Number.deps.json
+C:\Users\judec\CSharpApps-1\Invoice-Number\bin\Debug\net7.0\Invoice-Number.runtimeconfig.json
+C:\Users\judec\CSharpApps-1\Invoice-Number\bin\Debug\net7.0\Invoice-Number.dll
+C:\Users\judec\CSharpApps-1\Invoice-Number\bin\Debug\net7.0\Invoice-Number.pdb
+C:\Users\judec\CSharpApps-1\Invoice-Number\obj\Debug\net7.0\Invoice-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judec\CSharpApps-1\Invoice-Number\obj\Debug\net7.0\Invoice-Number.AssemblyInfoInputs.cache
+C:\Users\judec\CSharpApps-1\Invoice-Number\obj\Debug\net7.0\Invoice-Number.AssemblyInfo.cs
+C:\Users\judec\CSharpApps-1\Invoice-Number\obj\Debug\net7.0\Invoice-Number.csproj.CoreCompileInputs.cache
+C:\Users\judec\CSharpApps-1\Invoice-Number\obj\Debug\net7.0\Invoice-Number.dll
+C:\Users\judec\CSharpApps-1\Invoice-Number\obj\Debug\net7.0\refint\Invoice-Number.dll
+C:\Users\judec\CSharpApps-1\Invoice-Number\obj\Debug\net7.0\Invoice-Number.pdb
+C:\Users\judec\CSharpApps-1\Invoice-Number\obj\Debug\net7.0\Invoice-Number.genruntimeconfig.cache
+C:\Users\judec\CSharpApps-1\Invoice-Number\obj\Debug\net7.0\ref\Invoice-Number.dll
