@@ -1,0 +1,14 @@
+C:\Users\judec\CSharApps\CSharpApps\Client Letters (String Interpolation App)\bin\Debug\net7.0\Client Letters (String Interpolation App).exe
+C:\Users\judec\CSharApps\CSharpApps\Client Letters (String Interpolation App)\bin\Debug\net7.0\Client Letters (String Interpolation App).deps.json
+C:\Users\judec\CSharApps\CSharpApps\Client Letters (String Interpolation App)\bin\Debug\net7.0\Client Letters (String Interpolation App).runtimeconfig.json
+C:\Users\judec\CSharApps\CSharpApps\Client Letters (String Interpolation App)\bin\Debug\net7.0\Client Letters (String Interpolation App).dll
+C:\Users\judec\CSharApps\CSharpApps\Client Letters (String Interpolation App)\bin\Debug\net7.0\Client Letters (String Interpolation App).pdb
+C:\Users\judec\CSharApps\CSharpApps\Client Letters (String Interpolation App)\obj\Debug\net7.0\Client Letters (String Interpolation App).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judec\CSharApps\CSharpApps\Client Letters (String Interpolation App)\obj\Debug\net7.0\Client Letters (String Interpolation App).AssemblyInfoInputs.cache
+C:\Users\judec\CSharApps\CSharpApps\Client Letters (String Interpolation App)\obj\Debug\net7.0\Client Letters (String Interpolation App).AssemblyInfo.cs
+C:\Users\judec\CSharApps\CSharpApps\Client Letters (String Interpolation App)\obj\Debug\net7.0\Client Letters (String Interpolation App).csproj.CoreCompileInputs.cache
+C:\Users\judec\CSharApps\CSharpApps\Client Letters (String Interpolation App)\obj\Debug\net7.0\Client Letters (String Interpolation App).dll
+C:\Users\judec\CSharApps\CSharpApps\Client Letters (String Interpolation App)\obj\Debug\net7.0\refint\Client Letters (String Interpolation App).dll
+C:\Users\judec\CSharApps\CSharpApps\Client Letters (String Interpolation App)\obj\Debug\net7.0\Client Letters (String Interpolation App).pdb
+C:\Users\judec\CSharApps\CSharpApps\Client Letters (String Interpolation App)\obj\Debug\net7.0\Client Letters (String Interpolation App).genruntimeconfig.cache
+C:\Users\judec\CSharApps\CSharpApps\Client Letters (String Interpolation App)\obj\Debug\net7.0\ref\Client Letters (String Interpolation App).dll
