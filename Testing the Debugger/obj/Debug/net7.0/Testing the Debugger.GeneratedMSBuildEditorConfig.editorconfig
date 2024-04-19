@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Invoice_Number
-build_property.ProjectDir = C:\Users\judec\OneDrive\Desktop\CSharpApps\Invoice-Number\
+build_property.RootNamespace = Testing_the_Debugger
+build_property.ProjectDir = C:\Users\judec\OneDrive\Desktop\CSharpApps\Testing the Debugger\

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Invoice-Number\\Invoice-Number.csproj": {}
+    "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Testing the Debugger\\Testing the Debugger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Invoice-Number\\Invoice-Number.csproj": {
+    "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Testing the Debugger\\Testing the Debugger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Invoice-Number\\Invoice-Number.csproj",
-        "projectName": "Invoice-Number",
-        "projectPath": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Invoice-Number\\Invoice-Number.csproj",
+        "projectUniqueName": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Testing the Debugger\\Testing the Debugger.csproj",
+        "projectName": "Testing the Debugger",
+        "projectPath": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Testing the Debugger\\Testing the Debugger.csproj",
         "packagesPath": "C:\\Users\\judec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Invoice-Number\\obj\\",
+        "outputPath": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Testing the Debugger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\judec\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,14 @@
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Testing the Debugger\bin\Debug\net7.0\Testing the Debugger.exe
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Testing the Debugger\bin\Debug\net7.0\Testing the Debugger.deps.json
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Testing the Debugger\bin\Debug\net7.0\Testing the Debugger.runtimeconfig.json
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Testing the Debugger\bin\Debug\net7.0\Testing the Debugger.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Testing the Debugger\bin\Debug\net7.0\Testing the Debugger.pdb
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Testing the Debugger\obj\Debug\net7.0\Testing the Debugger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Testing the Debugger\obj\Debug\net7.0\Testing the Debugger.AssemblyInfoInputs.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Testing the Debugger\obj\Debug\net7.0\Testing the Debugger.AssemblyInfo.cs
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Testing the Debugger\obj\Debug\net7.0\Testing the Debugger.csproj.CoreCompileInputs.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Testing the Debugger\obj\Debug\net7.0\Testing the Debugger.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Testing the Debugger\obj\Debug\net7.0\refint\Testing the Debugger.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Testing the Debugger\obj\Debug\net7.0\Testing the Debugger.pdb
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Testing the Debugger\obj\Debug\net7.0\Testing the Debugger.genruntimeconfig.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Testing the Debugger\obj\Debug\net7.0\ref\Testing the Debugger.dll
