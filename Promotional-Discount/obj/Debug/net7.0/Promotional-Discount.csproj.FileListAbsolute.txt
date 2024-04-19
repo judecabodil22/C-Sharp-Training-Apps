@@ -12,3 +12,17 @@ C:\Users\judec\CSharpApps-1\Promotional-Discount\obj\Debug\net7.0\refint\Promoti
 C:\Users\judec\CSharpApps-1\Promotional-Discount\obj\Debug\net7.0\Promotional-Discount.pdb
 C:\Users\judec\CSharpApps-1\Promotional-Discount\obj\Debug\net7.0\Promotional-Discount.genruntimeconfig.cache
 C:\Users\judec\CSharpApps-1\Promotional-Discount\obj\Debug\net7.0\ref\Promotional-Discount.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Promotional-Discount\bin\Debug\net7.0\Promotional-Discount.exe
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Promotional-Discount\bin\Debug\net7.0\Promotional-Discount.deps.json
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Promotional-Discount\bin\Debug\net7.0\Promotional-Discount.runtimeconfig.json
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Promotional-Discount\bin\Debug\net7.0\Promotional-Discount.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Promotional-Discount\bin\Debug\net7.0\Promotional-Discount.pdb
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Promotional-Discount\obj\Debug\net7.0\Promotional-Discount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Promotional-Discount\obj\Debug\net7.0\Promotional-Discount.AssemblyInfoInputs.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Promotional-Discount\obj\Debug\net7.0\Promotional-Discount.AssemblyInfo.cs
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Promotional-Discount\obj\Debug\net7.0\Promotional-Discount.csproj.CoreCompileInputs.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Promotional-Discount\obj\Debug\net7.0\Promotional-Discount.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Promotional-Discount\obj\Debug\net7.0\refint\Promotional-Discount.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Promotional-Discount\obj\Debug\net7.0\Promotional-Discount.pdb
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Promotional-Discount\obj\Debug\net7.0\Promotional-Discount.genruntimeconfig.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Promotional-Discount\obj\Debug\net7.0\ref\Promotional-Discount.dll

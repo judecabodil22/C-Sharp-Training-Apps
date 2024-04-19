@@ -12,3 +12,17 @@ C:\Users\judec\CSharApps\CSharpApps\String Formatting\obj\Debug\net7.0\refint\St
 C:\Users\judec\CSharApps\CSharpApps\String Formatting\obj\Debug\net7.0\String Formatting.pdb
 C:\Users\judec\CSharApps\CSharpApps\String Formatting\obj\Debug\net7.0\String Formatting.genruntimeconfig.cache
 C:\Users\judec\CSharApps\CSharpApps\String Formatting\obj\Debug\net7.0\ref\String Formatting.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\String Formatting\obj\Debug\net7.0\String Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judec\OneDrive\Desktop\CSharpApps\String Formatting\obj\Debug\net7.0\String Formatting.AssemblyInfoInputs.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\String Formatting\obj\Debug\net7.0\String Formatting.AssemblyInfo.cs
+C:\Users\judec\OneDrive\Desktop\CSharpApps\String Formatting\obj\Debug\net7.0\String Formatting.csproj.CoreCompileInputs.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\String Formatting\obj\Debug\net7.0\String Formatting.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\String Formatting\obj\Debug\net7.0\refint\String Formatting.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\String Formatting\obj\Debug\net7.0\String Formatting.pdb
+C:\Users\judec\OneDrive\Desktop\CSharpApps\String Formatting\bin\Debug\net7.0\String Formatting.exe
+C:\Users\judec\OneDrive\Desktop\CSharpApps\String Formatting\bin\Debug\net7.0\String Formatting.deps.json
+C:\Users\judec\OneDrive\Desktop\CSharpApps\String Formatting\bin\Debug\net7.0\String Formatting.runtimeconfig.json
+C:\Users\judec\OneDrive\Desktop\CSharpApps\String Formatting\bin\Debug\net7.0\String Formatting.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\String Formatting\bin\Debug\net7.0\String Formatting.pdb
+C:\Users\judec\OneDrive\Desktop\CSharpApps\String Formatting\obj\Debug\net7.0\String Formatting.genruntimeconfig.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\String Formatting\obj\Debug\net7.0\ref\String Formatting.dll

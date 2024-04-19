@@ -12,3 +12,17 @@ C:\Users\judec\CSharpApps-1\Coin-Toss\obj\Debug\net7.0\refint\Coin-Toss.dll
 C:\Users\judec\CSharpApps-1\Coin-Toss\obj\Debug\net7.0\Coin-Toss.pdb
 C:\Users\judec\CSharpApps-1\Coin-Toss\obj\Debug\net7.0\Coin-Toss.genruntimeconfig.cache
 C:\Users\judec\CSharpApps-1\Coin-Toss\obj\Debug\net7.0\ref\Coin-Toss.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Coin-Toss\bin\Debug\net7.0\Coin-Toss.exe
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Coin-Toss\bin\Debug\net7.0\Coin-Toss.deps.json
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Coin-Toss\bin\Debug\net7.0\Coin-Toss.runtimeconfig.json
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Coin-Toss\bin\Debug\net7.0\Coin-Toss.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Coin-Toss\bin\Debug\net7.0\Coin-Toss.pdb
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Coin-Toss\obj\Debug\net7.0\Coin-Toss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Coin-Toss\obj\Debug\net7.0\Coin-Toss.AssemblyInfoInputs.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Coin-Toss\obj\Debug\net7.0\Coin-Toss.AssemblyInfo.cs
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Coin-Toss\obj\Debug\net7.0\Coin-Toss.csproj.CoreCompileInputs.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Coin-Toss\obj\Debug\net7.0\Coin-Toss.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Coin-Toss\obj\Debug\net7.0\refint\Coin-Toss.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Coin-Toss\obj\Debug\net7.0\Coin-Toss.pdb
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Coin-Toss\obj\Debug\net7.0\Coin-Toss.genruntimeconfig.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Coin-Toss\obj\Debug\net7.0\ref\Coin-Toss.dll
