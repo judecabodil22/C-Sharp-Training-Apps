@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Invoice-Number\\Invoice-Number.csproj": {}
+    "c:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Invoice-Number\\Invoice-Number.csproj": {}
   },
   "projects": {
-    "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Invoice-Number\\Invoice-Number.csproj": {
+    "c:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Invoice-Number\\Invoice-Number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Invoice-Number\\Invoice-Number.csproj",
+        "projectUniqueName": "c:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Invoice-Number\\Invoice-Number.csproj",
         "projectName": "Invoice-Number",
-        "projectPath": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Invoice-Number\\Invoice-Number.csproj",
+        "projectPath": "c:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Invoice-Number\\Invoice-Number.csproj",
         "packagesPath": "C:\\Users\\judec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Invoice-Number\\obj\\",
+        "outputPath": "c:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Invoice-Number\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\judec\\AppData\\Roaming\\NuGet\\NuGet.Config"

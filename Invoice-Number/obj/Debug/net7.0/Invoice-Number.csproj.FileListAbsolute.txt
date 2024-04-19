@@ -12,3 +12,17 @@ C:\Users\judec\CSharpApps-1\Invoice-Number\obj\Debug\net7.0\refint\Invoice-Numbe
 C:\Users\judec\CSharpApps-1\Invoice-Number\obj\Debug\net7.0\Invoice-Number.pdb
 C:\Users\judec\CSharpApps-1\Invoice-Number\obj\Debug\net7.0\Invoice-Number.genruntimeconfig.cache
 C:\Users\judec\CSharpApps-1\Invoice-Number\obj\Debug\net7.0\ref\Invoice-Number.dll
+c:\Users\judec\OneDrive\Desktop\CSharpApps\Invoice-Number\bin\Debug\net7.0\Invoice-Number.exe
+c:\Users\judec\OneDrive\Desktop\CSharpApps\Invoice-Number\bin\Debug\net7.0\Invoice-Number.deps.json
+c:\Users\judec\OneDrive\Desktop\CSharpApps\Invoice-Number\bin\Debug\net7.0\Invoice-Number.runtimeconfig.json
+c:\Users\judec\OneDrive\Desktop\CSharpApps\Invoice-Number\bin\Debug\net7.0\Invoice-Number.dll
+c:\Users\judec\OneDrive\Desktop\CSharpApps\Invoice-Number\bin\Debug\net7.0\Invoice-Number.pdb
+c:\Users\judec\OneDrive\Desktop\CSharpApps\Invoice-Number\obj\Debug\net7.0\Invoice-Number.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\judec\OneDrive\Desktop\CSharpApps\Invoice-Number\obj\Debug\net7.0\Invoice-Number.AssemblyInfoInputs.cache
+c:\Users\judec\OneDrive\Desktop\CSharpApps\Invoice-Number\obj\Debug\net7.0\Invoice-Number.AssemblyInfo.cs
+c:\Users\judec\OneDrive\Desktop\CSharpApps\Invoice-Number\obj\Debug\net7.0\Invoice-Number.csproj.CoreCompileInputs.cache
+c:\Users\judec\OneDrive\Desktop\CSharpApps\Invoice-Number\obj\Debug\net7.0\Invoice-Number.dll
+c:\Users\judec\OneDrive\Desktop\CSharpApps\Invoice-Number\obj\Debug\net7.0\refint\Invoice-Number.dll
+c:\Users\judec\OneDrive\Desktop\CSharpApps\Invoice-Number\obj\Debug\net7.0\Invoice-Number.pdb
+c:\Users\judec\OneDrive\Desktop\CSharpApps\Invoice-Number\obj\Debug\net7.0\Invoice-Number.genruntimeconfig.cache
+c:\Users\judec\OneDrive\Desktop\CSharpApps\Invoice-Number\obj\Debug\net7.0\ref\Invoice-Number.dll

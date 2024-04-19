@@ -1,0 +1,14 @@
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Method with Parameters\bin\Debug\net7.0\Method with Parameters.exe
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Method with Parameters\bin\Debug\net7.0\Method with Parameters.deps.json
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Method with Parameters\bin\Debug\net7.0\Method with Parameters.runtimeconfig.json
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Method with Parameters\bin\Debug\net7.0\Method with Parameters.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Method with Parameters\bin\Debug\net7.0\Method with Parameters.pdb
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Method with Parameters\obj\Debug\net7.0\Method with Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Method with Parameters\obj\Debug\net7.0\Method with Parameters.AssemblyInfoInputs.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Method with Parameters\obj\Debug\net7.0\Method with Parameters.AssemblyInfo.cs
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Method with Parameters\obj\Debug\net7.0\Method with Parameters.csproj.CoreCompileInputs.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Method with Parameters\obj\Debug\net7.0\Method with Parameters.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Method with Parameters\obj\Debug\net7.0\refint\Method with Parameters.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Method with Parameters\obj\Debug\net7.0\Method with Parameters.pdb
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Method with Parameters\obj\Debug\net7.0\Method with Parameters.genruntimeconfig.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Method with Parameters\obj\Debug\net7.0\ref\Method with Parameters.dll

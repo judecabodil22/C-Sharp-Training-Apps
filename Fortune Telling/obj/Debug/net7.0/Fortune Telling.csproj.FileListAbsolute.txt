@@ -1,0 +1,14 @@
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Fortune Telling\bin\Debug\net7.0\Fortune Telling.exe
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Fortune Telling\bin\Debug\net7.0\Fortune Telling.deps.json
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Fortune Telling\bin\Debug\net7.0\Fortune Telling.runtimeconfig.json
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Fortune Telling\bin\Debug\net7.0\Fortune Telling.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Fortune Telling\bin\Debug\net7.0\Fortune Telling.pdb
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Fortune Telling\obj\Debug\net7.0\Fortune Telling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Fortune Telling\obj\Debug\net7.0\Fortune Telling.AssemblyInfoInputs.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Fortune Telling\obj\Debug\net7.0\Fortune Telling.AssemblyInfo.cs
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Fortune Telling\obj\Debug\net7.0\Fortune Telling.csproj.CoreCompileInputs.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Fortune Telling\obj\Debug\net7.0\Fortune Telling.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Fortune Telling\obj\Debug\net7.0\refint\Fortune Telling.dll
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Fortune Telling\obj\Debug\net7.0\Fortune Telling.pdb
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Fortune Telling\obj\Debug\net7.0\Fortune Telling.genruntimeconfig.cache
+C:\Users\judec\OneDrive\Desktop\CSharpApps\Fortune Telling\obj\Debug\net7.0\ref\Fortune Telling.dll
