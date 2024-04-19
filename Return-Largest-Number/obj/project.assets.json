@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\judec\\CSharApps\\CSharpApps\\Return-Largest-Number\\Return-Largest-Number.csproj",
+      "projectUniqueName": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Return-Largest-Number\\Return-Largest-Number.csproj",
       "projectName": "Return-Largest-Number",
-      "projectPath": "C:\\Users\\judec\\CSharApps\\CSharpApps\\Return-Largest-Number\\Return-Largest-Number.csproj",
+      "projectPath": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Return-Largest-Number\\Return-Largest-Number.csproj",
       "packagesPath": "C:\\Users\\judec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\judec\\CSharApps\\CSharpApps\\Return-Largest-Number\\obj\\",
+      "outputPath": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Return-Largest-Number\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\judec\\AppData\\Roaming\\NuGet\\NuGet.Config"

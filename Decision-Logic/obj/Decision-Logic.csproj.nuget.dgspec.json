@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\judec\\CSharpApps-1\\Decision-Logic\\Decision-Logic.csproj": {}
+    "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Decision-Logic\\Decision-Logic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\judec\\CSharpApps-1\\Decision-Logic\\Decision-Logic.csproj": {
+    "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Decision-Logic\\Decision-Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\judec\\CSharpApps-1\\Decision-Logic\\Decision-Logic.csproj",
+        "projectUniqueName": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Decision-Logic\\Decision-Logic.csproj",
         "projectName": "Decision-Logic",
-        "projectPath": "C:\\Users\\judec\\CSharpApps-1\\Decision-Logic\\Decision-Logic.csproj",
+        "projectPath": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Decision-Logic\\Decision-Logic.csproj",
         "packagesPath": "C:\\Users\\judec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\judec\\CSharpApps-1\\Decision-Logic\\obj\\",
+        "outputPath": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Decision-Logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\judec\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

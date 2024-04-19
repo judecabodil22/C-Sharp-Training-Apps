@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\judec\\CSharpApps-1\\Finding-Fraudulent-Orders\\Finding-Fraudulent-Orders.csproj": {}
+    "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Finding-Fraudulent-Orders\\Finding-Fraudulent-Orders.csproj": {}
   },
   "projects": {
-    "C:\\Users\\judec\\CSharpApps-1\\Finding-Fraudulent-Orders\\Finding-Fraudulent-Orders.csproj": {
+    "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Finding-Fraudulent-Orders\\Finding-Fraudulent-Orders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\judec\\CSharpApps-1\\Finding-Fraudulent-Orders\\Finding-Fraudulent-Orders.csproj",
+        "projectUniqueName": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Finding-Fraudulent-Orders\\Finding-Fraudulent-Orders.csproj",
         "projectName": "Finding-Fraudulent-Orders",
-        "projectPath": "C:\\Users\\judec\\CSharpApps-1\\Finding-Fraudulent-Orders\\Finding-Fraudulent-Orders.csproj",
+        "projectPath": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Finding-Fraudulent-Orders\\Finding-Fraudulent-Orders.csproj",
         "packagesPath": "C:\\Users\\judec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\judec\\CSharpApps-1\\Finding-Fraudulent-Orders\\obj\\",
+        "outputPath": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Finding-Fraudulent-Orders\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\judec\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

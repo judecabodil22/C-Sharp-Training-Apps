@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\judec\\CSharpApps-1\\Coin-Toss\\Coin-Toss.csproj",
+      "projectUniqueName": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Coin-Toss\\Coin-Toss.csproj",
       "projectName": "Coin-Toss",
-      "projectPath": "C:\\Users\\judec\\CSharpApps-1\\Coin-Toss\\Coin-Toss.csproj",
+      "projectPath": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Coin-Toss\\Coin-Toss.csproj",
       "packagesPath": "C:\\Users\\judec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\judec\\CSharpApps-1\\Coin-Toss\\obj\\",
+      "outputPath": "C:\\Users\\judec\\OneDrive\\Desktop\\CSharpApps\\Coin-Toss\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\judec\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
